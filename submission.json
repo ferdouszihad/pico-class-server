@@ -1,0 +1,74 @@
+[
+  {
+    "assignmentId": "6555f86346a6e83339a5d667",
+    "title": "Introduction to Programming",
+    "description": "Learn the basics of programming languages and problem-solving techniques.",
+    "marks": 100,
+    "thumbnail": "intro_programming.jpg",
+    "difficulty": "easy",
+    "due_date": "2023-12-01",
+    "userEmail":"testuser@gmail.com",
+    "pdf":"test Link",
+    "note":"test note"
+  },
+  {
+    "assignmentId": "6555f86346a6e83339a5d668",
+    "title": "Web Development Fundamentals",
+    "description": "Explore the foundations of web development, including HTML, CSS, and JavaScript.",
+    "marks": 150,
+    "thumbnail": "web_dev_fundamentals.png",
+    "difficulty": "medium",
+    "due_date": "2023-12-15",
+    "userEmail":"testuser@gmail.com",
+    "pdf":"test Link",
+    "note":"test note"
+  },
+  {
+    "assignmentId": "6555f86346a6e83339a5d669",
+    "title": "Data Structures and Algorithms",
+    "description": "Dive into advanced data structures and algorithmic concepts for efficient problem-solving.",
+    "marks": 200,
+    "thumbnail": "data_structures_algo.jpg",
+    "difficulty": "hard",
+    "due_date": "2024-01-10",
+    "userEmail":"testuser@gmail.com",
+    "pdf":"test Link",
+    "note":"test note"
+  },
+  {
+    "assignmentId": "6555f86346a6e83339a5d66a",
+    "title": "Machine Learning Basics",
+    "description": "An introduction to machine learning concepts and algorithms.",
+    "marks": 120,
+    "thumbnail": "machine_learning_basics.png",
+    "difficulty": "medium",
+    "due_date": "2023-11-30",
+    "userEmail":"testuser@gmail.com",
+    "pdf":"test Link",
+    "note":"test note"
+  },
+  {
+    "assignmentId": "6555f86346a6e83339a5d66b",
+    "title": "Network Security Fundamentals",
+    "description": "Explore the basics of network security and common cyber threats.",
+    "marks": 180,
+    "thumbnail": "network_security_fundamentals.jpg",
+    "difficulty": "hard",
+    "due_date": "2024-02-05",
+    "userEmail":"testuser@gmail.com",
+    "pdf":"test Link",
+    "note":"test note"
+  },
+  {
+    "assignmentId": "6555f86346a6e83339a5d66c",
+    "title": "Mobile App Development Workshop",
+    "description": "Hands-on experience in building mobile applications for iOS and Android platforms.",
+    "marks": 130,
+    "thumbnail": "mobile_app_dev_workshop.png",
+    "difficulty": "easy",
+    "due_date": "2023-12-20",
+    "userEmail":"testuser@gmail.com",
+    "pdf":"test Link",
+    "note":"test note"
+  }
+]
